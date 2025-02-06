@@ -7,10 +7,6 @@ This is a **UI/UX design** prototype for a modern food delivery app, created usi
 ## 🔗 Project Link  
 👉 [View the Prototype on Figma](https://www.figma.com/proto/9MBnxqaVIGuRtOkkv8wgTV/Food-Delivery-App?node-id=17-9&p=f&t=FBzo5LsLSFGbYGsj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A9)  
 
-## 📸 Screenshots  
-![Homepage UI](screenshot(1).png)  
-![Order Page](screenshot(2).png)  
-
 ## 🎨 Tools Used  
 - **Figma** for UI/UX Design  
 - **Adobe Illustrator** for icons  
